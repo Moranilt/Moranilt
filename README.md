@@ -9,7 +9,7 @@ give something greate to other people.
 
 I have huge experience in front-end development(Typescript, React, NextJS). 
 I've made my own library of components(TS, React, Babel, Storybook) at the company to make front-end development 
-more covient and also to help designers to systemize their templates using components.
+more convenient and also to help designers to systemize their templates using components.
 
 <!---
 Moranilt/Moranilt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
