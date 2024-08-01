@@ -11,6 +11,10 @@ I have huge experience in front-end development(Typescript, React, NextJS).
 I've made my own library of components(TS, React, Babel, Storybook) at the company to make front-end development 
 more convenient and also to help designers to systemize their templates using components.
 
+I have a huge experience in project design, I like to create "rules" for developers which will help them do their job more efficiently. 
+
+I like to develope tools because I know what developers need and how are you feeling when you need some simple tools which you can't find, that's why I want to show everyone that happiness is in simple things.
+
 <!---
 Moranilt/Moranilt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
